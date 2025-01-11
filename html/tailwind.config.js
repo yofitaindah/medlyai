@@ -45,7 +45,7 @@ module.exports = {
         secondary: ['"Cabin"', "sans-serif"],
       },
       backgroundImage: {
-        heroBg: "url('../images/bg/hero_bg.webp')",
+        heroBg: "url('../images/bg/hero-bg2.gif')",
         ctaBg: "url('../images/bg/cta.webp')",
         comingSoonBg: "url('../images/bg/comingSoon_bg.webp')",
       },
